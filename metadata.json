@@ -1,0 +1,8 @@
+{
+  "name": "BirthdayAI Suite",
+  "description": "An AI-powered birthday celebration app featuring personalized image generation, video creation, and party planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
